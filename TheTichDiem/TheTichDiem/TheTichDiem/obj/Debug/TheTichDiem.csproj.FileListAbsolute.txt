@@ -1,0 +1,10 @@
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\bin\Debug\TheTichDiem.exe.config
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\bin\Debug\TheTichDiem.exe
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\bin\Debug\TheTichDiem.pdb
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\obj\Debug\TheTichDiem.csprojAssemblyReference.cache
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\obj\Debug\TheTichDiem.Form1.resources
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\obj\Debug\TheTichDiem.Properties.Resources.resources
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\obj\Debug\TheTichDiem.csproj.GenerateResource.cache
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\obj\Debug\TheTichDiem.csproj.CoreCompileInputs.cache
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\obj\Debug\TheTichDiem.exe
+E:\AppC#\TheTichDiem\TheTichDiem\TheTichDiem\obj\Debug\TheTichDiem.pdb
